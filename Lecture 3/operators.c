@@ -1,4 +1,4 @@
-#include<stdio.h
+#include<stdio.h>
 int main(){
     int i1= 2;
     i1-= 88;
